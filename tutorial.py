@@ -14,7 +14,7 @@ pygame.init()
 
 pygame.display.set_caption("Platformer")
 
-#                                           R  ,  G,   B    
+#           R  ,  G,   B
 BG_COLOR = (255, 255, 255)
 WIDTH, HEIGHT = 1000, 800
 FPS = 60
